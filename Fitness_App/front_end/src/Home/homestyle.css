@@ -1,0 +1,70 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.nav-list{
+    font-size: 10px;
+    margin-top:-60px;
+    margin-right:-800px;
+   
+}
+
+.nav-list li{
+    list-style-type: none;
+    display:inline-block;
+    font-size: 20px;
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-left: 60px;
+    color:white;
+
+}
+
+a {
+   
+    text-decoration: none;
+    color:white;
+   
+}
+
+.title{
+margin-left:-1200px;
+margin-top:-60px;
+font-size: 60px;
+font-family: 'Amiri', serif;
+
+}
+
+.title2{
+margin-left:-1030px;
+margin-top:-50px;
+font-size: 60px;
+font-family: 'Libre Baskerville', serif;
+}
+
+.main{
+    font-family: 'Merriweather Sans', sans-serif;
+    margin-top: 220px;
+    font-size:90px;
+}
+
+.sub-main{
+    font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+.home-background{
+
+        height: 560px;
+        width: 100%;
+        text-align: center;
+        padding-top: 100px;
+        color: white;
+        overflow: hidden;
+        background: #C04848;  /* fallback for old browsers */
+        background: url("https://images.pexels.com/photos/1552249/pexels-photo-1552249.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");  /* Chrome 10-25, Safari 5.1-6 */
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position:20% 80%;
+    
+}
